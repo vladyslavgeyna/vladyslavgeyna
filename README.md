@@ -18,7 +18,7 @@
         <img width="25%" style="border-radius: 50%; border: 5px solid #f7406b" src="assets/me.jpeg" alt="">
     </div>
     <div>
-        I'm a beginner <b>Node.js</b> backend developer from Ukraine <img src="assets/ua.svg" style="height: 15px" alt="">.<br>
+        I'm a beginner <b>Node.js / .NET</b> backend developer from Ukraine <img src="assets/ua.svg" style="height: 15px" alt="">.<br>
         I love to explore new technologies, solve challenging problems. My journey in the world of programming started in 2021, and I haven't stopped learning and growing since then.
     </div>
 </div>
