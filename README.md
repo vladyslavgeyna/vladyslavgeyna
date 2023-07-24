@@ -1,6 +1,6 @@
 <div >
     <div >
-        <h1 >Hi I'm</h1>
+        <h1 >Hi, I'm</h1>
         <a href="https://github.com/vladyslavgeyna">
             <img width="50%" src="assets/vladyslav.gif" alt="Vladyslav"/>
         </a>
