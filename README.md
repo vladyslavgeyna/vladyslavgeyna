@@ -15,7 +15,7 @@
 <hr style="margin-top: -35px">
 <div style="display: flex; align-items: center; gap: 20px; justify-content: center">
     <div >
-        <img style="border-radius: 50%; border: 5px solid #f7406b" src="assets/me.jpeg" alt="">
+        <img width="25%" style="border-radius: 50%; border: 5px solid #f7406b" src="assets/me.jpeg" alt="">
     </div>
     <div>
         I'm a beginner <b>Node.js</b> backend developer from Ukraine <img src="assets/ua.svg" style="height: 15px" alt="">.<br>
@@ -46,7 +46,7 @@
         </ul>
     </div>
     <div style="flex: 0 1 50%; ">
-        <img style="width: 100%; border: 5px solid #f7406b; border-radius: 25px" src="assets/code.gif" alt="">
+        <img width="50%" style="width: 100%; border: 5px solid #f7406b; border-radius: 25px" src="assets/code.gif" alt="">
     </div>
 </div>
 
