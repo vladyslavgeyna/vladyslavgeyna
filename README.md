@@ -80,6 +80,8 @@
     </li>
 </ul>
 <hr>
+
 ![Vladyslav Geyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslavgeyna&show_icons=true&theme=synthwave)
+
 <hr/>
 Consider giving my work some ⭐ 🙂
