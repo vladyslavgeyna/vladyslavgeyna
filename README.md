@@ -59,38 +59,27 @@
             <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="">&nbsp;
             <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="">&nbsp;
             <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="">&nbsp;
+            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="">&nbsp;
+            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="">&nbsp;
+            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="">&nbsp;
+            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="">&nbsp;
             <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="">&nbsp;
+        </div>
+    </li>
+    <li>
+        <h4>Also my skills include a knowledge of:</h4>
+        <div >
             <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="">&nbsp;
             <img width="90" height="70" src="assets/asp.png" alt="">&nbsp;
             <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="">
-        </div>
-    </li>
-    <li>
-        <h4>Also my skills include a basic knowledge of:</h4>
-        <div >
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="">&nbsp;
+            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="">&nbsp;
+            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="">&nbsp;
+            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="">&nbsp;
             <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="">
-        </div>
-    </li>
-    <li>
-        <h4>What I'm going to learn or improve:</h4>
-        <div >
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="">&nbsp;
-            <img width="70" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="">
         </div>
     </li>
 </ul>
 <hr>
-
 ![Vladyslav Geyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslavgeyna&show_icons=true&theme=synthwave)
 <hr/>
 Consider giving my work some ⭐ 🙂
