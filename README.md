@@ -5,7 +5,7 @@
         <img width="25%" src="assets/me.jpeg" alt="">
     </div>
     <div>
-        I'm a beginner <b>Node.js / React</b> developer from Ukraine <img width="20" src="assets/ua.svg"  alt="">.<br>
+        I'm a FullStack developer (currently working as Frontend Engineer) from Ukraine <img width="20" src="assets/ua.svg"  alt="">.<br>
         I love to explore new technologies, solve challenging problems. My journey in the world of programming started in 2021, and I haven't stopped learning and growing since then.
     </div>
 </div>
